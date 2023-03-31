@@ -2,11 +2,12 @@
 
 ## Cooperation Plan
   1. What are the key strengths of each person on the team?
+  
     - Logan: Attention to detail, persistence, high motivation. Is comfortable with working through his problems with breaking things and rebuilding.
 
     - Davey: Ability to keep cool when things go wrong, an ideas man- creates something from nothing, relentless persistence for results.
 
-    - Andrew: Code enthusiast with a thirst for knowledge and a passion for problem-solving. Dedicated to creating elegant and efficient solutions to complex challenges.
+    - Andrew: Code enthusiast with a thirst for knowledge and a passion for problem-solving. Dedicated to creating elegant and efficient solutions to complex   challenges.
 
     - Chris: Digs into things, good with documentation and React, is training to become a wizard for the front-end.
 
